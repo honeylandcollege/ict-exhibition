@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://honeylandcollege.github.io/ict-exhibition/sitemap.xml
